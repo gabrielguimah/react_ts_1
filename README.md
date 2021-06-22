@@ -76,4 +76,4 @@ const initialValues: InvestmentDetails = {
   dependents: -1,
   acceptedTermsAndConditions: false
 };
-```
+```# react_ts_1
