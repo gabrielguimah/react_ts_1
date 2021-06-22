@@ -10,6 +10,6 @@ export interface InvestmentDetails {
     commentAboutInvestmentRisk: string;
   
     dependents?: number;
-  
+
     acceptedTermsAndConditions: boolean;
   }
